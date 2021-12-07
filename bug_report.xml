@@ -1,2 +1,18 @@
-<bug_report_01>
-  
+<bug_report_02>
+    <ID>02</ID>
+    <Title>Отсутсвуют контакты магазина на странице Контакты</Title>
+    <Reporter>Kolotilina_Karina</Reporter>
+    <Assigned>Orlov_Alexsander</Assigned>
+    <Type>bug</Type>
+	<Status>new</Status>
+	<Severity>S1</Severity>
+	<Priority>P1</Priority>
+	<Browser>Google Chromу 96.0.4664.45</Browser>
+	<Description>Невозможно получить контакты магазина на станице контакты</Description>
+	  <Steps to reproduce>
+					 <1_step>Открыть главную страницу www.buy-la-la.com</1_step>
+					 <2_step>В верхнем правом углу нажать Контакты</2_step>
+	  </Steps to reproduce>
+	<Actual_result>Открылась страница контактов, но сами контакты отсутвуют на странице (адрес, телефон, электронная почта)</Actual_result>
+	<Expected_result>Открылась страница контактов, все контакты указаны</Expected_result>
+</bug_report_02>
