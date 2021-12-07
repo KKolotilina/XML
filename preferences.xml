@@ -1,7 +1,7 @@
-<my preferences>
-    <favorite movie>The Fast and the Furious</favorite movie>
-    <favorite show>Friend</favorite show>
-    <favorite food>Doner</favorite food>
-    <favorite season>summer</favorite season>
-    <visit country>USA</visit country>
-</my preferences>
+<my_preferences>
+    <favorite_movie>The Fast and the Furious</favorite_movie>
+    <favorite_show>Friend</favorite_show>
+    <favorite_food>Doner</favorite_food>
+    <favorite_season>summer</favorite_season>
+    <visit_country>USA</visit_country>
+</my_preferences>
